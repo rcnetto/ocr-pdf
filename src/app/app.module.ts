@@ -4,10 +4,12 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { PdfOcrComponent } from './pdf-ocr/pdf-ocr.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    PdfOcrComponent
   ],
   imports: [
     BrowserModule,

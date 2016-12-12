@@ -21,7 +21,9 @@
     "@angular/platform-browser-dynamic": "2.2.3",
     "@angular/router": "3.2.3",
     "core-js": "^2.4.1",
+    "pdfjs-dist": "^1.6.380",
     "rxjs": "5.0.0-beta.12",
+    "tesseract.js": "^1.0.10",
     "ts-helpers": "^1.1.1",
     "zone.js": "^0.6.23"
   },
@@ -29,6 +31,8 @@
     "@angular/compiler-cli": "2.2.3",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.42",
+    "@types/pdf": "0.0.31",
+    "@types/tesseract.js": "0.0.2",
     "angular-cli": "1.0.0-beta.22-1",
     "codelyzer": "~2.0.0-beta.1",
     "jasmine-core": "2.5.2",
